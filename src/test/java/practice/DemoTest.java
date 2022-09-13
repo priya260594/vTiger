@@ -8,5 +8,6 @@ public class DemoTest {
 	public void demo() {
 		System.out.println("This is demo");
 		System.out.println("Rj");
+		System.out.println("Conflit by user1");
 	}
 }
