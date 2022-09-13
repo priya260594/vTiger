@@ -14,6 +14,8 @@ public class DemoTest {
 		System.out.println("Conflit by user1");
 		
 		System.out.println("New change");
+		
+		System.out.println("change2");
 
 	}
 }
