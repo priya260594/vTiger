@@ -20,6 +20,7 @@ public class DemoTest {
 		System.out.println("wednesday user1");
 		
 		System.out.println("16th friday");
+		System.out.println("17th saturday");
 
 
 	}
